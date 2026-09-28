@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "rows": [
+    {
+      "sessionId": "43f17041-29e9-4dbd-986d-1e09a0e02eac",
+      "project": "autoresearch-macos",
+      "event": "START",
+      "timestamp": "2026-03-09T05:41:05.326Z",
+      "duration": null,
+      "models": [],
+      "apiMessages": null,
+      "userMessages": null,
+      "toolCalls": null,
+      "subagentCount": null,
+      "cacheHitRate": null,
+      "flags": "[Migrated]",
+      "machineId": "Keith.MacKay@XMHM9K7GC5VJ"
+    },
+    {
+      "sessionId": "43f17041-29e9-4dbd-986d-1e09a0e02eac",
+      "project": "autoresearch-macos",
+      "event": "END",
+      "timestamp": "2026-03-09T20:08:42.628Z",
+      "duration": "14:27:37",
+      "models": [
+        {
+          "model": "claude-haiku-4-5-20251001",
+          "input": null,
+          "output": null,
+          "cacheRead": null,
+          "cacheWrite": null,
+          "cost": 0.25
+        }
+      ],
+      "apiMessages": null,
+      "userMessages": null,
+      "toolCalls": null,
+      "subagentCount": null,
+      "cacheHitRate": null,
+      "flags": "[Migrated]",
+      "machineId": "Keith.MacKay@XMHM9K7GC5VJ"
+    }
+  ]
+}
